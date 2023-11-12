@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.17.4",
+    "punycode": "^2.3.1"
+  }
+}
